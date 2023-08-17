@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-<div align="center">
+<div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117"/>
 </div>
 
