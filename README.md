@@ -21,3 +21,4 @@
 ### CONTATO:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieljlt23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-torres-871024281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Byhy4pseGR7GUl4KkDrQuwQ%3D%3D)
