@@ -1,6 +1,6 @@
 # DANIEL TORRES
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Daniel+Torres;Eu+tenho+19+anos;Estudo+Sistemas+de+Informação;Seja+Bem+vindo(a);Hello!;My+name+is+Daniel+Torres;I'm+19+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome;Hola!;Me+nombre+es+Daniel+Torres;Tengo+19+años;Estudio+sistema+de+información;Bienvenido!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Daniel+Torres;Eu+tenho+19+anos;Estudo+Sistemas+de+Informação;Seja+Bem-vindo(a);Hello!;My+name+is+Daniel+Torres;I'm+19+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome;Hola!;Me+nombre+es+Daniel+Torres;Tengo+19+años;Estudio+sistema+de+información;Bienvenido!)](https://git.io/typing-svg)
 
 ![daniellucena1 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
 
