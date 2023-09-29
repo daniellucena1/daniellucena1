@@ -4,7 +4,7 @@
 
 ![daniellucena1 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
 
-### HABILIDADES:
+### Estudando:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
