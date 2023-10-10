@@ -15,6 +15,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117"/>
 </div>
 
+![daniellucena1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&theme=transparent&border_color=407c85)
+
 ### CONTATO:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieljlt23@gmail.com)
