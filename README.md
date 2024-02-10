@@ -1,6 +1,5 @@
 # DANIEL TORRES
-
-## Hi, I'm 19 years old, I'm from Brazil and studying Information Systems, Be Welcome!
+Hi, I'm 19 years old, I'm from Brazil and studying Information Systems, Be Welcome!
 
 # Estudando:
 
