@@ -14,7 +14,7 @@
   <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=donut&theme=dark"/>
 </div>
 
-## CONTATO:
+## Contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieljlt23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-torres-871024281/)
