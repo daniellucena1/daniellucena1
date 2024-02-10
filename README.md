@@ -10,7 +10,7 @@
 ![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![daniellucena1 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
-![daniellucena Githu stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&theme=transparent&border_color=407c85)
+![daniellucena1 Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117)
 
 ## CONTATO:
 
