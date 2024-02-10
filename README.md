@@ -1,17 +1,17 @@
 # DANIEL TORRES
 
-Hi, my name is Daniel Torres, I'm 19 years old, I'm from Brazil and studying Information Systems, Be Welcome!
+Hi, I'm 19 years old, I'm from Brazil and studying Information Systems, Be Welcome!
 
 # Estudando:
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![daniellucena1 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
-
-<div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117"/>
-</div>
+![daniellucena1 Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117)
 
 ### CONTATO:
 
