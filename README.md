@@ -4,11 +4,8 @@ Hi, my name is Daniel Torres, I'm 19 years old, I'm from Brazil and studying Inf
 
 # Estudando:
 
-![Python]([https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-))&nbsp;
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 ![daniellucena1 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
 
