@@ -11,7 +11,7 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 <div>
-  <img height=200em src="https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&hide_rank=true&theme=dark"/>
+  <img height=200em src="https://github-readme-stats.vercel.app/api?username=daniellucena1&show_icons=true&hide_rank=false&theme=dark"/>
   <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucena1&layout=donut&theme=dark"/>
 </div>
 
